@@ -1,5 +1,7 @@
 # Iris Vault
 
+> **This is the original system I used, and it's outdated.** It's kept here as a record. The current version is EVÐA, which sets up the same kind of vault with a newer Iris and keeps it updated. To start one, run `npx create-evda`.
+
 Claude Code + Obsidian starter kit. Works in terminal, desktop app, or multiple instances at once.
 
 ## Start here
