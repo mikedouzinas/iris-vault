@@ -1,6 +1,8 @@
 # Iris Vault
 
-> **This is the original system I used, and it's outdated.** It's kept here as a record. The current version is EVÐA, which sets up the same kind of vault with a newer Iris and keeps it updated. To start one, run `npx create-evda`.
+> **This is the original system I used, and it's outdated.** It's kept here as a record. The current version is EVÐA, which sets up the same kind of vault with a newer Iris and keeps it updated. To start a new one, run `npx create-evda`.
+>
+> **Already have an Iris Vault?** Make it an EVÐA where it is. In a terminal, inside your vault folder, run `npx -p create-evda evda adopt .`, then `npx -p create-evda evda doctor .` to confirm it worked. Nothing moves, and adopt prints the one command that undoes it.
 
 Claude Code + Obsidian starter kit. Works in terminal, desktop app, or multiple instances at once.
 
