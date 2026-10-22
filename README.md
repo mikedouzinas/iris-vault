@@ -1,6 +1,8 @@
 # Iris Vault
 
 > **This is the original system I used, and it's outdated.** It's kept here as a record. The current version is EVÐA, which sets up the same kind of vault with a newer Iris and keeps it updated. To start one, run `npx create-evda`.
+>
+> **Already using an Iris Vault?** Move it onto EVÐA where it is, without moving or renaming anything: `npx -y -p create-evda@latest evda adopt "<your vault folder>" --dry` shows what it would do, the same command without `--dry` does it, and `evda adopt --revert <manifest>` undoes it exactly. In Claude Cowork, run `evda plugin "<your vault folder>"` afterward and upload the zip it makes (Customize, then Plugins, then Upload plugin).
 
 Claude Code + Obsidian starter kit. Works in terminal, desktop app, or multiple instances at once.
 
